@@ -1,0 +1,149 @@
+/* new year website styles */
+.new-year-websites{
+    position: relative;
+}
+.new-year-website-text{
+    position: absolute;
+    left: 870px;
+    top: 200px;
+    font-size: 45px;
+    font-weight: 700;
+    font-family: 'lato',sans-serif;
+    text-align: right;
+    color: #151414;
+}
+.new-year-website-description{
+    position: absolute;
+    left: 850px;
+    top: 400px;
+    text-align: right;
+    font-size: 13px;
+    font-family: 'lato',sans-serif;
+    color: #444343;
+}
+.new-year-website-button{
+    position: absolute;
+    left: 1060px;
+    top: 500px;
+    border: 0px;
+    background-color: #F15B22;
+    border-radius: 5px;
+    padding: 13px 30px;
+    color: white;
+}
+
+/* new year website 1 styles */
+.new-year-website-pic-1{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.new-year-website-text-1{
+    margin-left: 750px;
+    margin-top: -450px;
+    font-family: 'lato',sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+}
+.new-year-website-description-1{
+    margin-left: 750px;
+    margin-top: 20px;
+    font-family: 'lato',sans-serif;
+    color: #444343;
+    font-size: 13px;
+}
+.correct-sign{
+    color: #16d887;
+}
+.new-year-website-description-2{
+    margin-left: 750px;
+    color: #444343;
+    font-family: 'lato',sans-serif;
+    font-size: 13px;
+}
+
+/* plans styles */
+.new-year-website-plan-text{
+    text-align: center;
+    font-family: 'lato',sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 40px;
+    margin-top: 250px;
+}
+.plan-pic-4{
+    margin-left: 100px;
+}
+.plan-pic-3{
+    margin-left: 100px;
+}
+.plan-pic-2{
+    margin-left: 100px;
+}
+.plan-pic-1{
+    margin-left: 330px;
+}
+.plan-text-1{
+    margin-left: 280px;
+    font-family: 'lato',sans-serif;
+}
+.plan-text-2{
+    margin-left: 520px;
+    margin-top: -48px;
+    font-family: 'lato',sans-serif;
+}
+.plan-text-3{
+    margin-left: 690px;
+    margin-top: -48px;
+    font-family: 'lato',sans-serif;
+}
+.plan-text-4{
+    margin-left: 915px;
+    margin-top: -49px;
+    font-family: 'lato',sans-serif;
+}
+.plan-description-1{
+    font-family: 'lato',sans-serif;
+    margin-left: 320px;
+    font-size: 18px;
+    color:#444343;
+}
+.plan-description-2{
+    font-family: 'lato',sans-serif;
+    margin-left: 520px;
+    margin-top: -36px;
+    font-size: 18px;
+    color: #444343;
+}
+.plan-description-3{
+    font-family: 'lato',sans-serif;
+    margin-left: 720px;
+    margin-top: -37px;
+    font-size: 18px;
+    color: #444343;
+}
+.plan-description-4{
+    font-family: 'lato',sans-serif;
+    margin-left: 910px;
+    margin-top: -36px;
+    font-size: 18px;
+    color: #444343;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
